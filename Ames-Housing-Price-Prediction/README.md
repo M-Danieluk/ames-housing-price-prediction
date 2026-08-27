@@ -25,4 +25,4 @@ Our XGBoost model identified that out of hundreds of property features, the mark
    pip install -r requirements.txt
 
 
-   > **Note:** If the Jupyter Notebook is blinking or rendering poorly natively on GitHub, [click here to view it flawlessly via nbviewer]https://nbviewer.org/github/matinho07/ames-housing-price-prediction/blob/main/Ames-Housing-Price-Prediction/notebooks/house_pricing.ipynb
+> **Note:** If the Jupyter Notebook is blinking or rendering poorly natively on GitHub, [click here to view it flawlessly via nbviewer]https://nbviewer.org/github/matinho07/ames-housing-price-prediction/blob/main/Ames-Housing-Price-Prediction/notebooks/house_pricing.ipynb
