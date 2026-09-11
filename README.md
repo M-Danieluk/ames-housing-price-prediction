@@ -9,7 +9,7 @@ Our XGBoost model identified that out of hundreds of property features, the mark
 * **Garage Capacity (`GarageCars`):** A highly significant attribute. From a logical standpoint, this acts as a strong proxy for wealth—buyers of premium properties demand multi-car garages.
 * **Above-Ground Living Area (`GrLivArea`):** The core square footage, explicitly excluding basement space.
 
-![Top 10 Feature Importances](Ames%20Housing%20Price%20Prediction/images/feature_importance.png)
+![Top 10 Feature Importances](images/feature_importance.png)
 
 ##  Tech Stack & Methodology
 * **Core Stack:** Python, Pandas, Scikit-Learn, XGBoost, Seaborn.
